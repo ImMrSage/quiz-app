@@ -1,5 +1,5 @@
 .title {
-  background-color: coral;
+  background-color: var(--color-coral);
   text-align: center;
   font-family: "Alegreya SC";
   padding: 0.5%;
