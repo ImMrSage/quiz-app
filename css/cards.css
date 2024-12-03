@@ -18,6 +18,7 @@
 
 .card-question {
   text-align: center;
+  padding-top: 7%;
 }
 
 .toggle-answer {
@@ -48,7 +49,10 @@
 }
 
 .bookmark-button {
+  width: 10%;
+  height: auto;
+  object-fit: contain;
   position: absolute;
-  top: 1%;
-  right: 1%;
+  top: 2%;
+  right: 2%;
 }
