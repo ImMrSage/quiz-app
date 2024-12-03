@@ -1,7 +1,10 @@
-.cards {
-  background-color: var(--color-coral);
-  font-size: 110%;
+.card-container {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.card {
+  background-color: var(--color-coral);
+  padding: 2%;
 }
